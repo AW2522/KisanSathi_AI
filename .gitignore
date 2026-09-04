@@ -1,0 +1,17 @@
+# Environment & Secrets
+.env
+*.pem
+*.key
+
+# Temporary Assets & Caches
+assets/audio_outputs/*.mp3
+__pycache__/
+.pytest_cache/
+.DS_Store
+
+# Streamlit Local Runtime
+.streamlit/secrets.toml
+
+# Virtual Environments
+venv/
+.venv/
