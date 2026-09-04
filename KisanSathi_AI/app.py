@@ -278,7 +278,7 @@ with main_col1:
 
     if active_image is not None:
         image_obj = Image.open(active_image)
-        st.image(image_obj, caption="Active Scanned Leaf Image", use_column_width=True)
+        st.image(image_obj, caption="Active Scanned Leaf Image", use_container_width=True)
         st.caption(f"Image Resolution: {image_obj.width}x{image_obj.height} px")
 
     st.markdown('</div>', unsafe_allow_html=True)
