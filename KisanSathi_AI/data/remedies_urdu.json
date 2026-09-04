@@ -1,0 +1,44 @@
+{
+  "Tomato___Late_blight": {
+    "disease_name_en": "Tomato Late Blight",
+    "disease_name_ur": "ٹماٹر کی لیٹ بلائٹ (Late Blight)",
+    "severity": "High",
+    "badge_color": "#FF4B4B",
+    "remedy_text_ur": "آپ کی ٹماٹر کی فصل میں لیٹ بلائٹ کی بیماری ہے۔ اس کے فوری علاج کے لیے 2 دن کے اندر کاپر فنگسائڈ (Copper Fungicide) کا اسپرے کریں اور کھیت میں زیادہ پانی کھڑا رہنے سے پرہیز کریں۔"
+  },
+  "Tomato___Early_blight": {
+    "disease_name_en": "Tomato Early Blight",
+    "disease_name_ur": "ٹماٹر کی ارلی بلائٹ (Early Blight)",
+    "severity": "Medium",
+    "badge_color": "#FFA500",
+    "remedy_text_ur": "آپ کی ٹماٹر کی فصل میں ارلی بلائٹ کے اثرات ہیں۔ پودوں کے متاثرہ پتوں کو کاٹ کر ضائع کر دیں اور کاپر فنگسائڈ یا منکوزیب (Mancozeb) کا اسپرے کریں۔"
+  },
+  "Potato___Late_blight": {
+    "disease_name_en": "Potato Late Blight",
+    "disease_name_ur": "آلو کی لیٹ بلائٹ (Late Blight)",
+    "severity": "High",
+    "badge_color": "#FF4B4B",
+    "remedy_text_ur": "آلو کی فصل میں لیٹ بلائٹ کا حملہ ہے۔ فوری طور پر نائٹروجن والی کھاد کا استعمال روکیں اور تجویز کردہ فنگسائڈ کا اسپرے کریں تاکہ جھلسائو کو روکا جا سکے۔"
+  },
+  "Potato___Early_blight": {
+    "disease_name_en": "Potato Early Blight",
+    "disease_name_ur": "آلو کی ارلی بلائٹ (Early Blight)",
+    "severity": "Medium",
+    "badge_color": "#FFA500",
+    "remedy_text_ur": "آلو کے پتوں پر ارلی بلائٹ کے دھبے موجود ہیں۔ متاثرہ پتوں کی چھٹائی کریں اور مناسب فنگسائڈ کا بروقت اسپرے کریں۔"
+  },
+  "Corn_(maize)___Common_rust": {
+    "disease_name_en": "Corn Common Rust",
+    "disease_name_ur": "مکئی کا رسٹ (Common Rust)",
+    "severity": "Medium",
+    "badge_color": "#FFA500",
+    "remedy_text_ur": "مکئی کی فصل میں رسٹ (زنگ) کی بیماری پائی گئی ہے۔ فصل میں ہوا کی آمدورفت بہتر بنائیں اور فنگس کش ادویات کا اسپرے کریں۔"
+  },
+  "Healthy": {
+    "disease_name_en": "Healthy",
+    "disease_name_ur": "صحت مند (Healthy)",
+    "severity": "None",
+    "badge_color": "#28A745",
+    "remedy_text_ur": "ماشاءاللہ آپ کی فصل بالکل صحت مند ہے۔ باقاعدگی سے دیکھ بھال جاری رکھیں اور بروقت پانی و کھاد فراہم کریں۔"
+  }
+}
